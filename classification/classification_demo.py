@@ -16,7 +16,7 @@ import sys
 
 #Initialize caffe
 caffe.set_mode_cpu()
-caffe_root = '../../caffe/'
+caffe_root = '../../../caffe/'
 TRANSFORM = True
 
 #Load weights, model definition and image

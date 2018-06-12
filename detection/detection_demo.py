@@ -9,10 +9,10 @@ import sys
 caffe.set_mode_cpu()
 np.set_printoptions(threshold=np.nan)
 
-caffe_root = '../../caffe/'
-model_def = 'models/train_val.prototxt'
+caffe_root = '../../../caffe/'
+model_def = 'models/deploy.prototxt'
 #net_weights = 'weights.caffemodel'
-net_weights = 'models/train_iter_42300.caffemodel'
+net_weights = 'models/weights.caffemodel'
 image_path = sys.argv[1]
 
 print 'Setting up network...'
