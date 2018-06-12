@@ -1,5 +1,7 @@
 # Pedestrian classification and Detection
-This code is for pedestrian classification and detection. For more detailed explanaitions see the report, report.pdf.
+This code is for pedestrian classification and detection. For more detailed explanaitions see the report, report.pdf. 
+
+Caffe deep learning framework must be installed. Change the path/to/caffe in classification/run_model.sh and detection/run_model.py if necessary. 
  
  ## Classification
  The classification folder includes a classification demo and a script for training the network.
