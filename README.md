@@ -1,5 +1,5 @@
 # Pedestrian classification and Detection
-This code is for pedestrian classification and detection. For more detailed explanaitions see the report, MT_report.pdf.
+This code is for pedestrian classification and detection. For more detailed explanaitions see the report, report.pdf.
  
  ## Classification
  The classification folder includes a classification demo and a script for training the network.
